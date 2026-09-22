@@ -1,0 +1,6 @@
+{
+  "name": "BazaarHub - WhatsApp Commerce BD",
+  "description": "Next-generation Bangladeshi social commerce marketplace with 1-click WhatsApp checkout, live catalog, product detail page, and merchant admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
